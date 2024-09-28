@@ -1,0 +1,4 @@
+User.js  name,email,password,phone,role
+UserController.js  getuser,registerUser,login,logout
+API creation register,login,logout
+
